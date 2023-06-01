@@ -23,7 +23,7 @@ nav-menu:
 
 # use false to turn off any social media links
 twitter: https://twitter.com/fuugul
-email: zombie@fuugul.com
+email: mailto:zombie@fuugul.com
 
 # footer information
 footer-msg: "Fuugul"

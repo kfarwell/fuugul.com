@@ -23,20 +23,11 @@ nav-menu:
 
 # use false to turn off any social media links
 twitter: https://twitter.com/fuugul
-facebook: false
-instagram: false
-github: false
-linkedin: false
-medium: false
-google-scholar: false
 email: zombie@fuugul.com
 
 # footer information
 footer-msg: "Fuugul"
 footer-msg-link: https://fuugul.com
-
-# google analytics
-google-analytics: false
 
 # jekyll plugins - no need to change
 plugins:
